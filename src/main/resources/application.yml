@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: base
+  data:
+    mongodb:
+      #uri: mongodb://usuario:contraseña@127.0.0.1:27017/test
+      uri: mongodb://127.0.0.1:27017/test
